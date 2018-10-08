@@ -1,0 +1,29 @@
+ DETALHES PARA UM VEÍCULO
+
+Modelo: GM - CHEVROLET S10 PICK-UP LTZ 2.8 TDI 4X4 CD DIES.AUT
+Portas: 4 portas
+Final de placa: 4
+Tipo de veículo: Pick-up
+Ano: 2016
+Combustível: Diesel
+Quilometragem: 52.000
+Câmbio: Automático
+Direção: Hidráulica
+Cor: Branco
+Estado financeiro:
+ipva pago
+Opcionais:
+air bag
+alarme
+ar condicionado
+vidro elétrico
+trava elétrica
+som
+sensor de ré
+câmera de ré
+Localização
+Município: Ji Paraná
+
+CEP: 76908-444
+
+Bairro: Nova Brasília
